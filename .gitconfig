@@ -1,0 +1,16 @@
+[user]
+	name = LiuShuaiQ
+	email = 1462828919@qq.com
+[alias]
+	st = status
+	l = log
+	co = checkout
+	cm = commit
+	df = diff
+	lol = log --oneline -10
+	br = branch
+	lop = log --graph --decorate --oneline --simplify-by-decoration --all
+	rv = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+
+[core]
+	editor = vim
