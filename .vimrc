@@ -23,7 +23,6 @@ set incsearch
 set ignorecase
 set smartcase
 
-set spell spelllang=en_us
 set nobackup
 set noswapfile
 set undofile
