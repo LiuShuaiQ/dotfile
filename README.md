@@ -3,4 +3,5 @@
 - [git配置文件](./.gitconfig) 
 - [vim配置文件](./.vimrc)
 - [zsh配置文件](./.zshrc)
+- [IntelliJ配置](./IntelliJ/)
 
